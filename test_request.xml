@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<BatchRequest>
+ <CallBack method="PUT" action="http://localhost:8080/cb" />
+ <RequestList>
+  <Request key="789" link="http://localhost:8080/1" />
+  <Request link="http://localhost:8080/2" />
+  <Request link="http://localhost:8080/3" />
+  <Request link="http://localhost:8080/4" />
+  <Request link="http://localhost:8080/5" />
+  <Request link="http://localhost:8080/6" />
+  <Request link="http://localhost:8080/7" />
+  <Request link="http://localhost:8080/8" />
+  <Request link="http://localhost:8080/9" />
+  <Request link="http://localhost:8080/10" />
+  <Request link="http://localhost:8080/11" />
+  <Request link="http://localhost:8080/12" />
+  <Request link="http://localhost:8080/13" />
+ </RequestList>
+</BatchRequest>
